@@ -1,0 +1,5 @@
+project: rnshah9/uzlib
+target: tgzip
+
+cmds:
+  - cmd: /uzlib/examples/tgzip/tgzip @@ out
