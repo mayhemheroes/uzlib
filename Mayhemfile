@@ -1,5 +1,5 @@
-project: rnshah9/mayhem-uzlib
+project: uzlib
 target: tgzip
 
 cmds:
-  - cmd: /uzlib/examples/tgzip/tgzip @@ out
+  - cmd: /uzlib/examples/tgzip/tgzip @@ /dev/null
