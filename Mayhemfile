@@ -2,4 +2,4 @@ project: uzlib
 target: tgzip
 
 cmds:
-  - cmd: /uzlib/examples/tgzip/tgzip @@ /dev/null
+  - cmd: /tgzip @@ /dev/null
